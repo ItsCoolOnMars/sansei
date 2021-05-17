@@ -1,0 +1,8 @@
+{
+  "name": "sansei",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "author": "Maxim",
+  "license": "MIT"
+}
